@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Just another repository
+I am a front-end developer and am experienced with HTML, CSS, and Jquery.
+
+Kthxbye.
